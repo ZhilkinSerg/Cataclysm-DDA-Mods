@@ -1,2 +1,11 @@
-# Cataclysm-DDA-Mods
-A bunch of mods for Cataclysm - Dark Days Ahead.
+# Description:
+
+Cataclysm-DDA-Mods is collection of various mods for [Dark Days Ahead](http://en.cataclysmdda.com/).
+
+# Included mods:
+
+- n/a.
+
+# Todo list:
+
+- n/a.
